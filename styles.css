@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 #cssmenu,
 #cssmenu > ul,
 #cssmenu > ul li,
@@ -159,7 +159,7 @@
 
  .dropdown  ul {
   display: none;
-
+  padding: 0;
  }
 
  .dropdown:hover > ul{
